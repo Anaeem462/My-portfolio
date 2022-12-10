@@ -637,12 +637,18 @@ section .title::after {
     color: crimson;
     background: none;
 }
-
+.linked {
+    color: crimson;
+    font-size: 25px;
+    margin: 10px;
+}
 /* footer section styling */
 footer {
     background: #111;
     padding: 15px 23px;
     color: #fff;
+    padding: 70px 0;
+
     text-align: center;
 }
 
